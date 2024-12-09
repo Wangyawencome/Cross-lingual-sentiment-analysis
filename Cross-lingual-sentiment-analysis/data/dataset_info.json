@@ -1,0 +1,35 @@
+{
+  "identity": {
+    "file_name": "identity.json"
+  },
+  "alpaca_en_demo": {
+    "file_name": "alpaca_en_demo.json"
+  },
+  "multi_text_train": {
+    "file_name": "text_en_task_train.json"
+  },
+  "multi_sentence_train": {
+    "file_name": "sentence_en_task_train.json"
+  },
+  "multi_few_text_train": {
+    "file_name": "few_text_en_task_train.json"
+  },
+  "all_text_pl_task_train": {
+    "file_name": "all_text_pl_task_train.json"
+  },
+  "train_all_text_pl_sampled":{
+    "file_name": "./sft/train_all_text_pl_sampled.json"
+  },
+  "train_all_text_de_sampled":{
+    "file_name": "./sft/train_all_text_de_sampled.json"
+  },
+  "train_all_text_en_sampled":{
+    "file_name": "./sft/train_all_text_en_sampled.json"
+  },
+  "train_all_text_es_sampled":{
+    "file_name": "./sft/train_all_text_es_sampled.json"
+  },
+  "train_all_text_fr_sampled":{
+    "file_name": "./sft/train_all_text_fr_sampled.json"
+  }
+}
