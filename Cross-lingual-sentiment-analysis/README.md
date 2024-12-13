@@ -20,7 +20,7 @@ Cross-lingual sentiment analysis is essential for accurately interpreting emotio
 │   │-- merge_lora/llama3_lora_sft.yaml        # LoRA merging configuration
 │   │-- inference/llama3_lora_sft.yaml        # Inference configuration
 │-- models/                     # Pretrained models and checkpoints  
-│-- results/                    # Output results and metrics
+│-- result/                    # Output results and metrics
 │-- test.py                    # Testing script 
 │-- README.md                   # Project documentation  
 ```
