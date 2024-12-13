@@ -1,0 +1,1 @@
+This folder contains the Meta-Llama-3-8B-Instruct model.
