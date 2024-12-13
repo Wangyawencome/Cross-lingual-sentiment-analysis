@@ -1,6 +1,3 @@
-# Bridging Resource Gaps in Cross-Lingual Sentiment Analysis  
-**Adaptive Self-Alignment with Data Augmentation and Transfer Learning**  
-
 This repository contains the code and resources for the paper:  
 **"Bridging Resource Gaps in Cross-Lingual Sentiment Analysis: Adaptive Self-Alignment with Data Augmentation and Transfer Learning"**  
 
