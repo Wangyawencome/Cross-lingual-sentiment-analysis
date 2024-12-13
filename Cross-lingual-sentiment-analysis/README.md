@@ -71,17 +71,6 @@ python test.py
 
 ---
 
-## Results  
-Our proposed framework demonstrates consistent improvements over traditional approaches:  
-
-| Dataset         | Baseline Accuracy | Our Method Accuracy |  
-|-----------------|-------------------|---------------------|  
-| MultiEmo (PL)   | 72.1%             | 81.5%               |  
-| Arabic Tweets   | 68.4%             | 76.8%               |  
-
----
-
-
 
 ## Contact  
 For questions, please contact:  
@@ -90,5 +79,5 @@ For questions, please contact:
 ---
 
 ## License  
-This project is licensed under the MIT License.  
+This project is licensed under the Apache License, Version 2.0 (the "License").
 
