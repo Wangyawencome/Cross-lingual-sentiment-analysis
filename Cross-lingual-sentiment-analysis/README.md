@@ -44,7 +44,8 @@ pip install -r requirements.txt
 ## Usage  
 
 ### 1. Data Preparation  
-Place your datasets in the `data/` directory. Preprocess the data using:  
+
+You can download the data here(https://clarin-pl.eu/dspace/handle/11321/798). Place your datasets in the `data/` directory. Preprocess the data using:  
 ```bash
 python data/raw/split_data.py
 python data/semantic_similarity_search.py 
